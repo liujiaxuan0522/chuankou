@@ -1,0 +1,11 @@
+# ===== Keil MDK 编译产物（不需要提交到 GitHub）=====
+# 输出目录：.o / .axf / .hex / .map / .htm / .lnp / .sct / .dep / .d 等
+MDK-ARM/chuankou/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+
+# Keil 界面状态（每台电脑的窗口布局不同，不用提交）
+*.uvguix.*
+
+# CubeMX 缓存（.ioc 才是配置，这个会自动重新生成）
+*.mxproject
